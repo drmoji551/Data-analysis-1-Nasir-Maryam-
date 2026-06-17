@@ -30,7 +30,7 @@ The goal was to uncover trends, identify outliers, and generate actionable busin
 - Cart Abandonment The total number of items added to carts stood at 6,582, of which 3,535 items were actually sold, reflecting an overall cart-to-sale conversion rate of approximately 53.7%. Likely causes include unexpected shipping costs at checkout, a complicated checkout process, or customers browsing without intent to buy immediately.
 - Instagram was the leading referral source, generating 259 visits. The most widely used coupon code was FREESHIP, used 313 times, indicating strong customer responsiveness to free shipping incentives. No single promotion and referral source is outperforming significantly.
 - Online payment was the most preferred payment method, recorded in 258 transactions, while gift cards represented the least utilized payment option during the review period.
-## Reccommendations
+## Recommendations
 - Rekindle customer relationships through personalised email campaigns.
 - Improve product descriptions and images to set accurate expectations.
 - Follow up on the 237 pending and 235 shipped orders that have no resolution.
