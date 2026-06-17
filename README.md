@@ -53,4 +53,4 @@ It reflects my growth in data analytics, from cleaning raw data to
 generating business insights using industry-standard tools.
 ## Author
 *Nasir Maryam*
-Veterinary Doctor | Data Analyst in Training
+Veterinary Doctor | Data Analyst
